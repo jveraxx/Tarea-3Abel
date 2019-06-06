@@ -1,3 +1,12 @@
+#agrupar{
+	margin:auto;
+	height: 240px;
+	width: 1300px;
+	border:1px solid #ABA5A5;
+	margin:3px;
+	padding:10px;
+}
+
 * {
   margin: 0px;
   padding: 0px;
