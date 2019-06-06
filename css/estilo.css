@@ -43,6 +43,16 @@ background-color: #ABA5A5;
 	margin-left: 20px;
 	background-color:#1DDEBB; 
 }
+#columna{
+	float:right;
+	width: 300px;
+	height: 40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color:#1DDEBB; 
+}
 * {
   margin: 0px;
   padding: 0px;
