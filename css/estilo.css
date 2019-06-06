@@ -28,7 +28,12 @@ background-color: #ABA5A5;
 #menu li:hover{
 	background-color: #FFFFFF;
 }
-
+#contenido{
+	margin:auto;
+	height: 80px;
+	width: 1300px;
+	background-color: #FFFFFF;
+}
 * {
   margin: 0px;
   padding: 0px;
