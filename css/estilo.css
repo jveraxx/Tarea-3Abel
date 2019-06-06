@@ -53,6 +53,14 @@ background-color: #ABA5A5;
 	margin-left: 20px;
 	background-color:#1DDEBB; 
 }
+#pie{
+	height: 65px;
+	width: 1300px;
+	background-color:#1DDEBB;
+	display: flex;
+	align-items: center;
+	justify-content: center; 
+}
 * {
   margin: 0px;
   padding: 0px;
