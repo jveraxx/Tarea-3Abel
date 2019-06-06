@@ -34,6 +34,15 @@ background-color: #ABA5A5;
 	width: 1300px;
 	background-color: #FFFFFF;
 }
+#seccion{
+	float:left;
+	height: 20px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+	margin-right: 20px;
+	margin-left: 20px;
+	background-color:#1DDEBB; 
+}
 * {
   margin: 0px;
   padding: 0px;
